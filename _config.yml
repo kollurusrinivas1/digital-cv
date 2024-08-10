@@ -1,8 +1,8 @@
-title: CV under construction  # You can add your name here
+title: Srinivas Kolluru  # You can add your name here
 
 logo: IMG_6206.JPG # Use a relative path to logo image 
 
-description: Data science and AI in agriculture - where bytes and botany blend for a better world. # Fix hyphenation 
+description: Remote sensing and Marine optics. # Fix hyphenation 
 
 show_downloads: true # Fix spelling
 
@@ -11,5 +11,5 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag # Add SEO plugin
 
-email: youremail@gmail.com # Allow visitors to contact you
+email: srinivaskolluru.a1@gmail.com # Allow visitors to contact you
 
