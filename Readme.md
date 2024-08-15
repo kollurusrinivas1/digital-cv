@@ -15,11 +15,11 @@ With a strong academic and research background in remote sensing, marine optics,
 Postdoctoral Research Associate
 - Utilization of SeaHawk/HawkEye Ocean Color CubeSat remote sensing data for aquatic remote sensing applications
 
-**Florida Atlantic University Harbor Branch Oceanographic Institute ** (October 2022 - July 2023)
+**Florida Atlantic University Harbor Branch Oceanographic Institute** (October 2022 - July 2023)
 Senior Postdoctoral Research Scholar
 -Co-Principal Investigator on two HBOI foundation grants to develop and adapt a coupled bio-optical benthic model to retrieve water column and benthic properties from remote sensing reflectance in the Indian River Lagoon
 
-**Florida Atlantic University Harbor Branch Oceanographic Institute ** (April 2021 - September 2022)
+**Florida Atlantic University Harbor Branch Oceanographic Institute** (April 2021 - September 2022)
 Postdoctoral Research Scholar
 - Developed a new semi-analytical ocean color inversion model for Plankton, Aerosol, Cloud and ocean Ecosystem (PACE)
 
