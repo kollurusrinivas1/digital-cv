@@ -1,5 +1,5 @@
 # Srinivas Kolluru (CV under construction)
-Postdoctoral Research Associate | Portfolio: [yourportfolio.github.io](https://yourportfolio.github.io)
+Postdoctoral Research Associate | Portfolio: [yourportfolio.github.io](https://kollurusrinivas1.github.io/digital-cv/)
 
 ## Summary
 With a strong academic and research background in remote sensing, marine optics, machine learning, and biogeochemistry, I pursued my doctoral studies at IIT Bombay, focusing on water quality retrieval using multispectral and hyperspectral data. My postdoctoral work has involved developing advanced ocean color inversion algorithms and evaluating remote sensing data accuracy, with research roles at Harbor Branch Oceanographic Institute and Skidaway Institute of Oceanography.
